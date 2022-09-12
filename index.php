@@ -126,9 +126,7 @@
                 </div>
 
                 <div class="home-app__text">
-                    <p>TheFutbolApp (TFA) Web3 social network showcases the extraordinary integrated power of
-                        theGreenpower Platform, combining wallet, chats, games, commerce and NFT buying around the 7000+
-                        Clubs tracked live in the app. GPC is the only way to pay for ads in TFA.</p>
+                    <p>The Green Power App (GPA) Web3 community social network enables community interaction with green renewable stored energy via NFTs. It also serves as a decentralized loacl social network and commerce system. Play to earn games are included within the app.</p>
                 </div>
 
                 <div class="home-app__icons">
