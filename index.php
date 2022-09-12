@@ -166,7 +166,6 @@
 
                         <ul class="col-md-12 de_nav">
 
-                            <li class="active tab-gra ">NFT based Green Mining</li>
                             <li class="tab-gra">GPA wallet and pay system
                             </li>
                             <li class="tab-gra">GPP pay to earn games
@@ -175,28 +174,6 @@
                             </li>
                         </ul>
                         <div class="de_tab_content" style="background-size: cover;">
-
-                            <div class="tab-1" style="background-size: cover;">
-                                <div class="md:flex md:items-start md:-mx-4">
-                                <span class="inline-block p-2 text-blue-500 bg-blue-100 rounded-xl md:mx-4 dark:text-white dark:bg-blue-500">
-                                    <svg xmlns="http://www.w3.org/2000/svg" class="w-6 h-6" fill="none" viewBox="0 0 24 24"
-                                         stroke="currentColor">
-                                    <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
-                                          d="M17.657 18.657A8 8 0 016.343 7.343S7 9 9 10c0-2 .5-5 2.986-7C14 5 16.09 5.777 17.656 7.343A7.975 7.975 0 0120 13a7.975 7.975 0 01-2.343 5.657z"/>
-                                    <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
-                                          d="M9.879 16.121A3 3 0 1012.015 11L11 14H9c0 .768.293 1.536.879 2.121z"/>
-                                </svg>
-                                </span>
-
-                                    <div class="mt-4 md:mx-4 md:mt-0">
-                                        <h1 class="text-2xl font-semibold text-gray-700 capitalize dark:text-white">NFT based Green Mining</h1>
-
-                                        <p class="mt-3 text-gray-500 dark:text-gray-300">
-                                            Green Power Platform makes it easy for non-crypto people to hold and use digital assets. The platform enables businesses to accept payment with tokens while avoiding volatility associated with crypto through its unique virtual stable coin credit system. Merchants get FIAT credits (Impact credits) in the system for sales, then convert those credits to Green Power Coins (GPC) at the moment they convert to fiat - so price stays stable. Over 100 businesses will accept GPC at launch in exchange for goods and services.
-                                        </p>
-                                    </div>
-                                </div>
-                            </div>
 
                             <div class="tab-2" style="background-size: cover;">
                                 <div class="md:flex md:items-start md:-mx-4">
@@ -215,29 +192,7 @@
                                             GPA wallet and pay system</h1>
 
                                         <p class="mt-3 text-gray-500 dark:text-gray-300">
-                                            TFA has developed some popular games that give staking rewards including:
-
-                                        <ul class="id-color" style="color: #fff;font-size: 22px;">
-                                            <li class="id-color" style="color: #fff;font-size: 22px;"><strong>Predictions
-                                                    Leagues</strong> - daily predictions leagues and competitions with
-                                                GPC prizes
-                                            </li>
-                                            <li class="id-color" style="color: #fff;font-size: 22px;">
-                                                <strong>BallerDash </strong> - an NFT based arcade game that is used
-                                                with our very own ballers NFT collection
-                                            </li>
-                                            <li class="id-color" style="color: #fff;font-size: 22px;"><strong>pandaMONIUM </strong>
-                                                - a floppy birds style game using Pandas, points, footballs and red
-                                                cards
-                                            </li>
-                                            <li class="id-color" style="color: #fff;font-size: 22px;"><strong>Midnight
-                                                    Madness </strong> - a mass multiplayer game that can support
-                                                millions of simultaneous participants. The game happens at midnight in a
-                                                designated timezone where users must guess a number from 1 - 7 after
-                                                Midnight. The top few hundred winners are awarded, the winning is
-                                                usually milliseconds after Midnight.
-                                            </li>
-                                        </ul>
+                                            Green Power Platform makes it easy for non-crypto people to hold and use digital assets. The platform enables businesses to accept payment with tokens while avoiding volatility associated with crypto through its unique virtual stable coin credit system. Merchants get FIAT credits (Impact credits) in the system for sales, then convert those credits to Green Power Coins (GPC) at the moment they convert to fiat - so price stays stable. Over 100 businesses will accept GPC at launch in exchange for goods and services.
                                         </p>
                                     </div>
                                 </div>
@@ -259,12 +214,21 @@
                                         <h1 class="text-2xl font-semibold text-gray-700 capitalize dark:text-white">GPP pay to earn games</h1>
 
                                         <p class="mt-3 text-gray-500 dark:text-gray-300">
-                                            NFT based ticketing is under development which cannot be counterfeited yet
-                                            is easy to use and also serves as momento of attendance at an important
-                                            event. TFA app serves as a point of sale for millions of football fans. One
-                                            touch NFT based ticket buying (with GPC) will be embedded directly in the
-                                            app where users check daily how their club is doing. We make it very easy to
-                                            buy NFT tickets (and merchandise) in this way using GPC (one touch).
+                                            GPP with its partners offers some popular games that give GPC rewards including:
+
+
+                                        <ul class="id-color" style="color: #575757;font-size: 22px;">
+                                            <li class="id-color" style="color: #575757;font-size: 22px;"><strong>Trivia </strong> - local community trivia contests that run daily and pay out GPC coins to winners
+                                            </li>
+                                            <li class="id-color" style="color: #575757;font-size: 22px;">
+                                                <strong>Drunken Leprechaun </strong> - a floppy birds style game using beer, points, leprechauns and lightning bolts
+                                            </li>
+                                            <li class="id-color" style="color: #575757;font-size: 22px;"><strong>Midnight Madness </strong>
+                                                - a mass multiplayer game that can support millions of simultaneous participants. The game happens at midnight in a designated timezone where users must guess a number from 1 - 7 after Midnight. The top few hundred winners are awarded, the winning is usually milliseconds after Midnight.
+                                            </li>
+                                            <li class="id-color" style="color: #575757;font-size: 22px;"><strong>To participate, players must have staked GPC</strong>
+                                            </li>
+                                        </ul>
                                         </p>
                                     </div>
                                 </div>
@@ -286,13 +250,7 @@
                                         <h1 class="text-2xl font-semibold text-gray-700 capitalize dark:text-white">GPP DAO capabilities</h1>
 
                                         <p class="mt-3 text-gray-500 dark:text-gray-300">
-                                            A custom set of DAO smart contracts and voting and management interfaces for
-                                            use by fans who wish to help their clubs and gain influence and benefit from
-                                            doing so. Fans will send GPC to a DAO smart contract managed by a trustee.
-                                            The trustee negotiates with the club regarding the powers the club will give
-                                            to the fans (veto right on new coach, veto right on transfers, etc). The DAO
-                                            will loan the club money by funding the contracts of players approved by the
-                                            DAO. The borrowed funds are secured with tickets and merchandise.
+                                            A custom set of DAO smart contracts and voting and management interfaces for use by people who wish to help their local community and gain influence and benefit from doing so. Content moderation for the Green Power App social network will be managed on a local community level via DAO. DAO participation on larger platform decisions will be available also. Participation in the DAO is proportional to the amount of GPC that is staked or held in wallet.
                                         </p>
                                     </div>
                                 </div>
