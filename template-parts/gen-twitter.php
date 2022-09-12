@@ -36,7 +36,7 @@
                 <p>@LiviFCOfficial</p>
             </div>
             <div class="gen-twitter__item__text">
-                <p>🆕 | Livingston FC is delighted to announce an exciting new partnership with TheFutbolCoin (GPC) which will see the club accept GPC for tickets & merchandise as well as TheFutbolCoin logo appearing on the rear of our 2021/2022 match and replica shirts.</p>
+                <p>🆕 | Livingston FC is delighted to announce an exciting new partnership with GreenPowerCoin (GPC) which will see the club accept GPC for tickets & merchandise as well as GreenPowerCoin logo appearing on the rear of our 2021/2022 match and replica shirts.</p>
             </div>
         </div>
 
@@ -46,7 +46,7 @@
             </div>
             <div class="gen-twitter__item__info">
                 <p>GPC Official</p>
-                <p>@TheFutbolCoin</p>
+                <p>@GreenPowerCoin</p>
             </div>
             <div class="gen-twitter__item__text">
                 <p>⚽️ Did you know that Arsenal and Everton legend @1kevincampbell is a #TFA ambassador? ⚽️ $GPC<br><br>Find out why he thinks #TFA has such a bright future: https://youtu.be/wAhe27GDMFA</p>
@@ -75,7 +75,7 @@
                 <p>@Stellar_News_</p>
             </div>
             <div class="gen-twitter__item__text">
-                <p>#Stellarfamily Check out @TheFutbolCoin that utilizes #Stellar with their token $GPC</p>
+                <p>#Stellarfamily Check out @GreenPowerCoin that utilizes #Stellar with their token $GPC</p>
             </div>
         </div>
 
@@ -88,7 +88,7 @@
                 <p>@Beyti3434</p>
             </div>
             <div class="gen-twitter__item__text">
-                <p>434.000K🧿 @TheFutbolApp users so happy.....⚽️🐼<br><br>168.074K🧿 @TheFutbolCoin token holders so happy.....⚽️🐼<br><br>1.135.718 millions 🧿 total payments count @steve_GPC so happy for his amazing community! ⚽️🐼</p>
+                <p>434.000K🧿 @GreenPowerApp users so happy.....⚽️🐼<br><br>168.074K🧿 @GreenPowerCoin token holders so happy.....⚽️🐼<br><br>1.135.718 millions 🧿 total payments count @steve_GPC so happy for his amazing community! ⚽️🐼</p>
             </div>
         </div>
 
@@ -101,7 +101,7 @@
                 <p>@Prinzvick</p>
             </div>
             <div class="gen-twitter__item__text">
-                <p>The fourth business to accept... GPC #thefutbolcoin as means of payment in my city... #PHC ... Its awesome.. Thanks to all the admins and @steve_GPC... <br>@GPCVIBER<br>@xdarlsz<br>@TheFutbolCoin</p>
+                <p>The fourth business to accept... GPC #greenpowercoin as means of payment in my city... #PHC ... Its awesome.. Thanks to all the admins and @steve_GPC... <br>@GPCVIBER<br>@xdarlsz<br>@GreenPowerCoin</p>
             </div>
         </div>
 
@@ -114,7 +114,7 @@
                 <p>@GPC_Lover69</p>
             </div>
             <div class="gen-twitter__item__text">
-                <p>GPC of course. @TheFutbolCoin The utility coin. You won't regret it. @samconnerone @steve_GPC @Soleaswest @Eleftherios_ele @TFAmaniac @dubai_geordie @georgekafkarkou @Stranger_GPC @Giannis86122708 @klit0sa</p>
+                <p>GPC of course. @GreenPowerCoin The utility coin. You won't regret it. @samconnerone @steve_GPC @Soleaswest @Eleftherios_ele @TFAmaniac @dubai_geordie @georgekafkarkou @Stranger_GPC @Giannis86122708 @klit0sa</p>
             </div>
         </div>
 

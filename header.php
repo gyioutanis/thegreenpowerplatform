@@ -48,7 +48,7 @@
 <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap" />
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/tw-elements/dist/css/index.min.css" />
 <style type="text/css">
-   
+
 </style>
 <script src="https://cdn.tailwindcss.com"></script>
 <script>
@@ -96,10 +96,6 @@
                 </div>
 
                 <div class="header__menu">
-<!--                    <ul>-->
-<!--                        <li><a href="#about">About</a></li>-->
-<!--                        <li><a href="#contact">Contact us</a></li>-->
-<!--                    </ul>-->
                     <div class="header__menu__btn">
                         <a href="https://tfamoments.com"><img src="assets/img/img-buy-nft_market.svg"
                                                                     alt="NFT Marketplace"></a>

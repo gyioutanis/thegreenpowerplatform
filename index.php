@@ -2,33 +2,45 @@
 
 
 <main class="home">
-    <section class="home-intro-wrap" style="background-image: url('assets/img/temp/home-banner-bg.jpg');">
-        <div class="home-intro gen-width gen-rim white-font">
-            <div class="home-intro-inner">
-                <div class="home-intro__text" style="padding-top:110px;max-width: 800px;">
-                    <!--                        <img src="assets/img/logo-tfg.png" alt="">-->
-                    <!--                        <br>-->
-                    <br>
-                    <!--                        <h1>TFA Platform</h1>-->
-                    <h2 style="margin-bottom:10px;" class="text-6xl capitalize">Powering the <span
-                                class="gen-font-gradient">football</span>
-                        <span class="gen-font-gradient">economy</span></h2>
+    <section class="home-intro-wrap" >
 
-                    <p style="margin-bottom:10px;max-width:700px;">The Green Power Platform is a multi-chain Web3 platform with apps and services built to power next generation digital interaction between communities and transformational green energy projects.</p>
+                <div style="width: 100%;height: 720px;overflow: hidden;position: relative;">
+                    <video style="min-width: 100%;min-height: 100%;position: absolute;top: 50%;left: 50%;transform: translateX(-50%) translateY(-50%);" autoplay muted loop id="myVideo">
+                        <source src="assets/img/video.mp4" type="video/mp4">
+                        Your browser does not support HTML5 video.
+                    </video>
+                    <div style="z-index: 1;  position: relative; color: #dc0000; padding: 10px;">
+
+                        <div class="home-intro gen-width gen-rim white-font">
+                            <div class="home-intro-inner">
+                                <div class="home-intro__text" style="padding-top:110px;max-width: 800px;">
+                                    <!--                        <img src="assets/img/logo-tfg.png" alt="">-->
+                                    <!--                        <br>-->
+                                    <br>
+                                    <!--                        <h1>TFA Platform</h1>-->
+                                    <h2 style="margin-bottom:10px;" class="text-6xl capitalize">Powering the <span
+                                                class="gen-font-gradient">green</span>
+                                        <span class="gen-font-gradient">economy</span></h2>
+
+                                    <p style="margin-bottom:10px;max-width:700px;">The Green Power Platform is a multi-chain Web3 platform with apps and services built to power next generation digital interaction between communities and transformational green energy projects.</p>
 
 
-                    <div style="margin-top: 30px;display: inline-block;margin-bottom: 30px;">
-                                                    <a href="https://tfamoments.com/"><img src="assets/img/img-buy-nft_market.svg"
-                                                                                                style="width: 300px;"
-                                                                                                alt="NFT Marketplace"></a>
+                                    <div style="margin-top: 30px;display: inline-block;margin-bottom: 30px;">
+                                        <a href="https://tfamoments.com/"><img src="assets/img/img-buy-nft_market.svg"
+                                                                               style="width: 300px;"
+                                                                               alt="NFT Marketplace"></a>
+                                    </div>
+
+
+                                </div>
+
+                            </div>
+                        </div>
                     </div>
-
-
                 </div>
 
-            </div>
-        </div>
     </section>
+
 <!--    <section class="gen-color-block">-->
 <!--        <div style="width: 100%;height: 700px;overflow: hidden;position: relative;">-->
 <!--            <video style="min-width: 100%;min-height: 100%;position: absolute;top: 50%;left: 50%;transform: translateX(-50%) translateY(-50%);" autoplay muted loop id="myVideo">-->
@@ -40,6 +52,7 @@
 <!--            </div>-->
 <!--        </div>-->
 <!--    </section>-->
+
     <section class="gen-color-block">
         <section class="home-benefits gen-width gen-rim white-font">
             <div class="home-benefits-inner">
@@ -289,7 +302,7 @@
                     <img src="assets/img/temp/home-press-2_new.jpg" alt="">
                 </div>
                 <div class="home-press__item__text">
-                    <p>TFA (TheFutbolApp) has entered into an Agreement with China International Cultural Digital Asset
+                    <p>GPA (GreenPowerApp) has entered into an Agreement with China International Cultural Digital Asset
                         Exchange (CICDAE) to bring football and sports related NFTs to the largest football market in
                         the world. China has over 447 million avid football fans with tremendous interest in NFTs, and
                         CICDAE is the first NFT exchange licensed in China for secondary market trading.</p>
@@ -303,7 +316,7 @@
                     <img src="assets/img/temp/home-press-3.jpg" alt="">
                 </div>
                 <div class="home-press__item__text">
-                    <p>Livingston FC partner with TheFutbolCoin for the 2021/22 season</p>
+                    <p>Livingston FC partner with GreenPowerCoin for the 2021/22 season</p>
                     <a href="https://livingstonfc.co.uk/livingston-fc-partner-with-thefutbolcoin-for-the-2021-22-season/">Read
                         more</a>
                 </div>
@@ -339,7 +352,7 @@
                 <div class="home-achievements__title">
                     <h2 class="text-6xl capitalize">GPC Token<br><span class="gen-font-gradient">Achievements</span>
                     </h2>
-                    <p>GPC (TheFutbolCoin) is a digital asset on the Stellar blockchain.</p>
+                    <p>GPC (GreenPowerCoin) is a digital asset on the Stellar blockchain.</p>
                 </div>
 
                 <div class="home-achievements__list">
