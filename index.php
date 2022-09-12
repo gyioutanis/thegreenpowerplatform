@@ -46,14 +46,14 @@
 
     </section>
 
-        <section class="gen-color-block">
-            <div style="width: 100%;height: 700px;overflow: hidden;position: relative;">
-                <video style="min-width: 100%;min-height: 100%;position: absolute;top: 50%;left: 50%;transform: translateX(-50%) translateY(-50%);" autoplay muted loop id="myVideo">
-                    <source src="assets/img/video.mp4" type="video/mp4">
-                    Your browser does not support HTML5 video.
-                </video>
-            </div>
-        </section>
+<!--        <section class="gen-color-block">-->
+<!--            <div style="width: 100%;height: 700px;overflow: hidden;position: relative;">-->
+<!--                <video style="min-width: 100%;min-height: 100%;position: absolute;top: 50%;left: 50%;transform: translateX(-50%) translateY(-50%);" autoplay muted loop id="myVideo">-->
+<!--                    <source src="assets/img/video.mp4" type="video/mp4">-->
+<!--                    Your browser does not support HTML5 video.-->
+<!--                </video>-->
+<!--            </div>-->
+<!--        </section>-->
 
     <section class="gen-color-block">
         <section class="home-benefits gen-width gen-rim white-font">
