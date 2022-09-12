@@ -4,15 +4,16 @@
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="author" content="pavlovec.net">
-    <title>TFC</title>
+    <title>GPC</title>
 
-    <link rel="apple-touch-icon" sizes="180x180" href="assets/img/favicon/apple-touch-icon.png">
-    <link rel="icon" type="image/png" sizes="32x32" href="assets/img/favicon/favicon-32x32.png">
-    <link rel="icon" type="image/png" sizes="16x16" href="assets/img/favicon/favicon-16x16.png">
-    <link rel="manifest" href="assets/img/favicon/site.webmanifest">
-    <link rel="mask-icon" href="assets/img/favicon/safari-pinned-tab.svg" color="#c09c66">
-    <meta name="msapplication-TileColor" content="#000000">
+    <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+    <link rel="manifest" href="/site.webmanifest">
+    <link rel="mask-icon" href="/safari-pinned-tab.svg" color="#5bbad5">
+    <meta name="msapplication-TileColor" content="#da532c">
     <meta name="theme-color" content="#ffffff">
+
 
     <?php $file = 'assets/css/dist/tailwind.css'; ?>
     <link rel="stylesheet" href="<?= $file ?>?v=<?= filectime($file) ?>">
@@ -61,8 +62,8 @@
                 <div class="header-inner">
                     <div class="header__logo">
                         <a href="https://thefutbolcoin.com">
-                            <img src="assets/img/logo-tfa.png" alt="logo: TFC" width="53">
-                            <p>TFA Platform</p>
+                            <img src="assets/img/logo-tfa.png" alt="logo: GPC" width="53">
+                            <p>theGreenpower Platform</p>
                         </a>
                     </div>
 
@@ -72,7 +73,7 @@
                             <li><a href="#contact">Contact us</a></li>
                         </ul>
                         <div class="header__menu__btn">
-                            <a href="https://global.bittrex.com/Market/Index?MarketName=USDT-tfc"><img src="assets/img/img-buy-on-bittrex.svg" alt="Buy on Bittrex"></a>
+                            <a href="https://global.bittrex.com/Market/Index?MarketName=USDT-GPC"><img src="assets/img/img-buy-on-bittrex.svg" alt="Buy on Bittrex"></a>
                         </div>
                     </div>
 

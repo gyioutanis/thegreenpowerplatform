@@ -17,7 +17,7 @@
                             src="assets/img/icon-youtube--white.svg" alt=""></a>
             </div>
             <div class="gen-social__item">
-                <a href="https://t.me/tfc_official"><img src="assets/img/icon-telegram--white.svg" alt=""></a>
+                <a href="https://t.me/GPC_official"><img src="assets/img/icon-telegram--white.svg" alt=""></a>
             </div>
 <!--            <div class="gen-social__item">-->
 <!--                <a href="https://twitter.com/TheFutbolCoin"><img src="assets/img/icon-twitter--white.svg" alt=""></a>-->
@@ -39,8 +39,8 @@
         <div class="footer-inner">
             <div class="footer__logo">
                 <a href="#top">
-                    <img src="assets/img/logo-tfa.png" alt="logo: TFC" width="33">
-                    <p>TFA Platform</p>
+                    <img src="assets/img/logo-tfa.png" alt="logo: GPC" width="33">
+                    <p>theGreenpower Platform</p>
 
 
                     <div class="footer__columns__item__list">
@@ -71,9 +71,9 @@
                     </div>
                     <div class="footer__columns__item__list">
                         <ul>
-                            <li><a href="mailto:list@thefutbolapp.com">Accept TFC at your business</a></li>
+                            <li><a href="mailto:list@thefutbolapp.com">Accept GPC at your business</a></li>
                             <li><a href="https://tfaworldwide.org/">Apply for a grant</a></li>
-                            <li><a href="https://www.thefutbolapp.com/">Build TFC community</a></li>
+                            <li><a href="https://www.thefutbolapp.com/">Build GPC community</a></li>
                         </ul>
                     </div>
                 </div>
@@ -84,18 +84,18 @@
                     </div>
                     <div class="footer__columns__item__list">
                         <ul>
-                            <li><a href="https://quickswap.exchange/#/swap?outputCurrency=0xAEB3e641Ec85517A63604CB13FCE73BA22FcC827">TFC on Quickswap </a>
+                            <li><a href="https://quickswap.exchange/#/swap?outputCurrency=0xAEB3e641Ec85517A63604CB13FCE73BA22FcC827">GPC on Quickswap </a>
                             </li>
-                            <li><a href="https://polygonscan.com/token/0xAEB3e641Ec85517A63604CB13FCE73BA22FcC827">wTFC Contract</a></li>
+                            <li><a href="https://polygonscan.com/token/0xAEB3e641Ec85517A63604CB13FCE73BA22FcC827">wGPC Contract</a></li>
                             <li>
-                                <a href="https://stellar.expert/explorer/public/asset/TFC-GDS3XDJAA4VY6MJYASIGSIMPHZ7AQNZ54RKLWT7MWCOU5YKYEVCNLVS3">TFC
+                                <a href="https://stellar.expert/explorer/public/asset/GPC-GDS3XDJAA4VY6MJYASIGSIMPHZ7AQNZ54RKLWT7MWCOU5YKYEVCNLVS3">GPC
                                     Ledger Info</a></li>
                         </ul>
                     </div>
                 </div>
             </div>
             <div class="footer__copyright">
-                <p>Copyright ©2021 TFA Platform All Rights Reserved</p>
+                <p>Copyright ©2021 theGreenpower Platform All Rights Reserved</p>
             </div>
 
             <div class="footer__lang">
