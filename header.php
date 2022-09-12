@@ -100,10 +100,10 @@
 <!--                        <li><a href="#about">About</a></li>-->
 <!--                        <li><a href="#contact">Contact us</a></li>-->
 <!--                    </ul>-->
-<!--                    <div class="header__menu__btn">-->
-<!--                        <a href="https://tfamoments.com"><img src="assets/img/img-buy-nft_market.svg"-->
-<!--                                                                    alt="NFT Marketplace"></a>-->
-<!--                    </div>-->
+                    <div class="header__menu__btn">
+                        <a href="https://tfamoments.com"><img src="assets/img/img-buy-nft_market.svg"
+                                                                    alt="NFT Marketplace"></a>
+                    </div>
                 </div>
 
                 <div class="header__burger">

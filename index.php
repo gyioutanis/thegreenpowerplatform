@@ -18,9 +18,9 @@
 
 
                     <div style="margin-top: 30px;display: inline-block;margin-bottom: 30px;">
-                        <!--                            <a href="https://tfamoments.com/"><img src="assets/img/img-buy-nft_market.svg"-->
-                        <!--                                                                        style="width: 300px;"-->
-                        <!--                                                                        alt="NFT Marketplace"></a>-->
+                                                    <a href="https://tfamoments.com/"><img src="assets/img/img-buy-nft_market.svg"
+                                                                                                style="width: 300px;"
+                                                                                                alt="NFT Marketplace"></a>
                     </div>
 
 
@@ -51,13 +51,7 @@
                          style="background-color: unset !important;padding-left: 0px;">
                         <div class="home-benefits__blocks__item__text">
                             <h4 class="text-6xl capitalize">What is <span class="gen-font-gradient">$GPC?</span></h4>
-                            <p style="max-width: 700px;">TheFutbolCoin (GPC) is the native token of theGreenpower
-                                Platform. GPC is needed to interact with many
-                                of the platform's useful features and functionalities. GPC is bridged across from
-                                Stellar
-                                (for fast payments and fiat gateways) to Polygon (for NFTs, staking, DAO voting and
-                                other
-                                smart contract enabled theGreenpower Platform Dapps).</p>
+                            <p style="max-width: 700px;">Green Power Coin (GPC) is the adopted token of the Green Power Platform. GPC is needed to interact with the platform's useful features and functionalities such as NFT based green mining, staking and DAO voting. GPC monetizes the potential of the green economy in a digital asset</p>
 
                             <div style="margin-top: 30px;display: inline-block;margin-right:40px;">
                                 <a href="https://quickswap.exchange/#/swap?outputCurrency=0xAEB3e641Ec85517A63604CB13FCE73BA22FcC827"><img
