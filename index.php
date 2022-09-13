@@ -540,7 +540,7 @@
                 </div>
 
                 <div class="home-achievements__title" style="z-index: 2;position: relative;padding-top: 60px">
-                    <h2 class="text-6xl capitalize">GPC <span class="gen-font-gradient">Partners</span>
+                    <h2 class="text-6xl capitalize">GPP <span class="gen-font-gradient">Partners</span>
                     </h2>
                 </div>
 
