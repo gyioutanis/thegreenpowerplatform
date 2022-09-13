@@ -4,7 +4,7 @@
     <meta charset="UTF-8"/>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="author" content="pavlovec.net">
-    <title>theGreenpower Platform</title>
+    <title>Green Power Platform</title>
 
     <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
     <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
@@ -91,13 +91,13 @@
                 <div class="header__logo">
                     <a href="#top">
                         <img src="assets/img/logo-tfa.png" alt="logo: GPC" width="53">
-                        <p>theGreenPower Platform</p>
+                        <p>Green Power Platform</p>
                     </a>
                 </div>
 
                 <div class="header__menu">
                     <div class="header__menu__btn">
-                        <a href="https://tfamoments.com"><img src="assets/img/img-buy-nft_market.svg"
+                        <a href="https://tfamoments.com"><img src="assets/img/img-gpc.svg"
                                                                     alt="NFT Marketplace"></a>
                     </div>
                 </div>

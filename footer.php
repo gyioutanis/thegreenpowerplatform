@@ -40,12 +40,12 @@
             <div class="footer__logo">
                 <a href="#top">
                     <img src="assets/img/logo-tfa.png" alt="logo: GPC" width="33">
-                    <p>theGreenpower Platform</p>
+                    <p>Green Power Platform</p>
 
 
                     <div class="footer__columns__item__list">
                         <ul>
-                            <li><a href="mailto:community@thegreenpowerapp.com">community@thegreenpowerapp.com</a></li>
+                            <li><a href="mailto:community@thegreenpowerapp.com">community@Green Powerapp.com</a></li>
                         </ul>
                     </div>
 
@@ -95,7 +95,7 @@
                 </div>
             </div>
             <div class="footer__copyright">
-                <p>Copyright ©2021 theGreenpower Platform All Rights Reserved</p>
+                <p>Copyright ©2021 Green Power Platform All Rights Reserved</p>
             </div>
 
             <div class="footer__lang">

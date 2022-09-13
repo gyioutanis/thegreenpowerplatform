@@ -63,7 +63,7 @@
                     <div class="header__logo">
                         <a href="https://thefutbolcoin.com">
                             <img src="assets/img/logo-tfa.png" alt="logo: GPC" width="53">
-                            <p>theGreenpower Platform</p>
+                            <p>Green Power Platform</p>
                         </a>
                     </div>
 

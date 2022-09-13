@@ -37,7 +37,7 @@
                 <div class="footer__logo">
                     <a href="#top">
                         <img src="assets/img/logo-tfa.png" alt="logo: GPC" width="53">
-                        <p>theGreenpower Platform</p>
+                        <p>Green Power Platform</p>
 
 
                          <div class="footer__columns__item__list">
@@ -89,7 +89,7 @@
                     </div>
                 </div>
                 <div class="footer__copyright">
-                    <p>Copyright ©2021 theGreenpower Platform All Rights Reserved</p>
+                    <p>Copyright ©2021 Green Power Platform All Rights Reserved</p>
                 </div>
 
                 <div class="footer__lang">

@@ -9,7 +9,7 @@
                     <img src="assets/img/logo-tfa.png" alt="">
                     <br>
                     <br>
-                    <h1>theGreenpower Platform</h1>
+                    <h1>Green Power Platform</h1>
                     <h2><span class="gen-font-gradient">Our Team</span></h2>
                 </div>
 

@@ -30,7 +30,7 @@
 
 
                             <div style="margin-top: 30px;display: inline-block;margin-bottom: 30px;z-index: 1;">
-                                <a href="https://tfamoments.com/"><img src="assets/img/img-buy-nft_market.svg"
+                                <a href="https://tfamoments.com/"><img src="assets/img/img-gpc.svg"
                                                                        style="width: 300px;"
                                                                        alt="NFT Marketplace"></a>
                             </div>
@@ -46,16 +46,95 @@
 
     </section>
 
-<!--        <section class="gen-color-block">-->
-<!--            <div style="width: 100%;height: 700px;overflow: hidden;position: relative;">-->
-<!--                <video style="min-width: 100%;min-height: 100%;position: absolute;top: 50%;left: 50%;transform: translateX(-50%) translateY(-50%);" autoplay muted loop id="myVideo">-->
-<!--                    <source src="assets/img/video.mp4" type="video/mp4">-->
-<!--                    Your browser does not support HTML5 video.-->
-<!--                </video>-->
-<!--            </div>-->
-<!--        </section>-->
+
+
+    <section class="home-app-wrap-no-shadow"
+             style="background-image: url('assets/img/temp/star_background.jpg');padding-top: 40px;">
+        <div class="home-app gen-width gen-rim white-font">
+            <div class="home-app-inner home-press gen-width gen-rim">
+                <div class="home-press-inner px-6 py-10">
+                    <div class="w-full space-y-12">
+                        <div>
+                            <h1 class="text-6xl font-semibold text-gray-800 capitalize dark:text-white">Eco<span
+                                        class="gen-font-gradient">system</span></h1>
+                        </div>
+                    </div>
+                    <div class="home-app__text">
+                        <p>What We Do</p><br>
+                        <p>Green Power Platform is built to accelerate the adoption of green renewable energy through
+                            with the combined power of web3. We're building the foundations for the decentralized future
+                            for local green community.</p>
+                        <br>
+                        <p>We are empowering decentralised community in 3 key ways</p>
+
+                    </div>
+
+
+                    <div class="home-press__item_3">
+                        <div class="home-press__item__img">
+                            <img src="assets/img/temp/art_4.jpeg"
+                                 width="560"
+                                 height="310" alt="">
+                        </div>
+                        <div class="home-press__item__text">
+
+                            <p>Communication</p>
+                            <h3 class="m_title m_title_ext text-custom latest_posts-title" itemprop="headline"><a
+                                        href="https://corre.energy/2022/08/02/corre-energy-playing-a-role-in-driving-irelands-economic-growth-newsweek/">Corre
+                                    Energy playing a role in driving Ireland’s economic growth – Newsweek</a></h3>
+
+                            <a href="https://corre.energy/2022/08/02/corre-energy-playing-a-role-in-driving-irelands-economic-growth-newsweek/">Read
+                                more</a>
+
+                        </div>
+                    </div>
+
+                    <div class="home-press__item_3">
+                        <div class="home-press__item__img">
+                            <img src="assets/img/temp/art_1.jpeg"
+                                 width="560" height="310" alt="">
+                        </div>
+                        <div class="home-press__item__text">
+
+                            <p>Energy</p>
+                            <h3 class="m_title m_title_ext text-custom latest_posts-title" itemprop="headline"><a
+                                        href="https://corre.energy/2022/06/06/corre-energy-announce-global-collaboration-agreement-to-work-together-on-long-duration-energy-storage-projects/">Corre
+                                    Energy announce ‘Global Collaboration Agreement’ to work together on Long Duration
+                                    Energy
+                                    Storage projects</a></h3>
+
+                            <a href="https://corre.energy/2022/06/06/corre-energy-announce-global-collaboration-agreement-to-work-together-on-long-duration-energy-storage-projects/">Read
+                                more</a>
+                        </div>
+                    </div>
+
+                    <div class="home-press__item_3">
+                        <div class="home-press__item__img">
+                            <img src="assets/img/temp/art_2.jpeg"
+                                 width="560"
+                                 height="310" alt="">
+                        </div>
+                        <div class="home-press__item__text">
+
+                            <p>Commerce</p>
+                            <h3 class="m_title m_title_ext text-custom latest_posts-title" itemprop="headline"><a
+                                        href="https://corre.energy/2022/05/25/corre-energy-raises-e10-9-million-and-accelerates-growth-plans/">Corre
+                                    Energy raises €10.9 million and accelerates growth plans</a></h3>
+                            <a href="https://corre.energy/2022/05/25/corre-energy-raises-e10-9-million-and-accelerates-growth-plans/">Read
+                                more</a>
+                        </div>
+                    </div>
+
+
+                </div>
+
+            </div>
+        </div>
+    </section>
+
 
     <section class="gen-color-block">
+        <!--        <section class="home-app-wrap" style="background-image: url('assets/img/temp/star_background.jpg');">-->
         <section class="home-benefits gen-width gen-rim white-font">
             <div class="home-benefits-inner">
                 <div class="home-benefits__img">
@@ -65,7 +144,7 @@
                     <div class="home-benefits__blocks__item"
                          style="background-color: unset !important;padding-left: 0px;">
                         <div class="home-benefits__blocks__item__text">
-                            <h4 class="text-6xl capitalize">What is <span class="gen-font-gradient">$GPC?</span></h4>
+                            <h4 class="text-6xl capitalize">Introducing <span class="gen-font-gradient">$GPC?</span></h4>
                             <p style="max-width: 700px;">Green Power Coin (GPC) is the adopted token of the Green Power
                                 Platform. GPC is needed to interact with the platform's useful features and
                                 functionalities such as NFT based green mining, staking and DAO voting. GPC monetizes
@@ -133,14 +212,14 @@
     <!--        </section>-->
 
 
-    <section class="home-app-wrap" style="background-image: url('assets/img/temp/home-app-bg.jpg');">
+    <section class="home-app-wrap" style="background-image: url('assets/img/temp/star_background.jpg');">
         <div class="home-app gen-width gen-rim white-font">
             <div class="home-app-inner">
                 <div class="home-app__title">
-                    <div class="home-app__title__img">
-                        <img src="assets/img/logo-tfa.png" alt="">
-                    </div>
-                    <h2 class="text-6xl capitalize">The GreenPower<span class="gen-font-gradient">App</span></h2>
+                    <!--                    <div class="home-app__title__img">-->
+                    <!--                        <img src="assets/img/logo-tfa.png" alt="">-->
+                    <!--                    </div>-->
+                    <h2 class="text-6xl capitalize">The Green Power<span class="gen-font-gradient">App</span></h2>
                 </div>
 
                 <div class="home-app__text">
