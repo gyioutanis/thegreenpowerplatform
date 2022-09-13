@@ -64,63 +64,54 @@
                             with the combined power of web3. We're building the foundations for the decentralized future
                             for local green community.</p>
                         <br>
-                        <p>We are empowering decentralised community in 3 key ways</p>
+                        <p>We are <span style="color: #FFB400;">empowering</span> decentralised community in 3 key ways
+                        </p>
 
                     </div>
 
 
                     <div class="home-press__item_3">
                         <div class="home-press__item__img">
-                            <img src="assets/img/temp/art_4.jpeg"
+                            <img src="assets/img/temp/communication.png"
                                  width="560"
                                  height="310" alt="">
                         </div>
                         <div class="home-press__item__text">
 
                             <p style="text-align: center;font-weight: bold;">Communication</p>
-                            <!--                            <h3 class="m_title m_title_ext text-custom latest_posts-title" itemprop="headline"><a-->
-                            <!--                                        href="https://corre.energy/2022/08/02/corre-energy-playing-a-role-in-driving-irelands-economic-growth-newsweek/">Corre-->
-                            <!--                                    Energy playing a role in driving Ireland’s economic growth – Newsweek</a></h3>-->
-                            <!---->
-                            <!--                            <a href="https://corre.energy/2022/08/02/corre-energy-playing-a-role-in-driving-irelands-economic-growth-newsweek/">Read-->
-                            <!--                                more</a>-->
-
+                            <p style="text-align: center;">
+                                <a href="#" style="font-size: 14px;text-align: center;">Via the GreenPowerApp</a>
+                            </p>
                         </div>
                     </div>
 
                     <div class="home-press__item_3">
                         <div class="home-press__item__img">
-                            <img src="assets/img/temp/art_1.jpeg"
+                            <img src="assets/img/temp/energy.png"
                                  width="560" height="310" alt="">
                         </div>
                         <div class="home-press__item__text">
 
                             <p style="text-align: center;font-weight: bold;">Energy</p>
-                            <!--                            <h3 class="m_title m_title_ext text-custom latest_posts-title" itemprop="headline"><a-->
-                            <!--                                        href="https://corre.energy/2022/06/06/corre-energy-announce-global-collaboration-agreement-to-work-together-on-long-duration-energy-storage-projects/">Corre-->
-                            <!--                                    Energy announce ‘Global Collaboration Agreement’ to work together on Long Duration-->
-                            <!--                                    Energy-->
-                            <!--                                    Storage projects</a></h3>-->
-                            <!---->
-                            <!--                            <a href="https://corre.energy/2022/06/06/corre-energy-announce-global-collaboration-agreement-to-work-together-on-long-duration-energy-storage-projects/">Read-->
-                            <!--                                more</a>-->
+                            <p style="text-align: center;">
+                                <a href="#" style="font-size: 14px;text-align: center;">Via the GreenPowerApp</a>
+                            </p>
                         </div>
                     </div>
 
                     <div class="home-press__item_3">
                         <div class="home-press__item__img">
-                            <img src="assets/img/temp/art_2.jpeg"
+                            <img src="assets/img/temp/commerce.png"
                                  width="560"
                                  height="310" alt="">
                         </div>
                         <div class="home-press__item__text">
 
                             <p style="text-align: center;font-weight: bold;">Commerce</p>
-                            <!--                            <h3 class="m_title m_title_ext text-custom latest_posts-title" itemprop="headline"><a-->
-                            <!--                                        href="https://corre.energy/2022/05/25/corre-energy-raises-e10-9-million-and-accelerates-growth-plans/">Corre-->
-                            <!--                                    Energy raises €10.9 million and accelerates growth plans</a></h3>-->
-                            <!--                            <a href="https://corre.energy/2022/05/25/corre-energy-raises-e10-9-million-and-accelerates-growth-plans/">Read-->
-                            <!--                                more</a>-->
+                            <p style="text-align: center;">
+                                <a href="#" style="font-size: 14px;text-align: center;">Via the GreenPowerApp</a>
+                            </p>
+
                         </div>
                     </div>
 
