@@ -89,7 +89,7 @@
                     </div>
                 </div>
                 <div class="footer__copyright">
-                    <p>Copyright ©2021 Green Power Platform All Rights Reserved</p>
+                    <p>Copyright ©2022 Green Power Platform All Rights Reserved</p>
                 </div>
 
                 <div class="footer__lang">

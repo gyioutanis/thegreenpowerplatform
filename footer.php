@@ -45,7 +45,7 @@
 
                     <div class="footer__columns__item__list">
                         <ul>
-                            <li><a href="mailto:community@thegreenpowerapp.com">community@Green Powerapp.com</a></li>
+                            <li><a href="mailto:community@thegreenpowerplatform.com">community@thegreenpowerplatform.com</a></li>
                         </ul>
                     </div>
 
@@ -60,7 +60,7 @@
                         <ul>
                             <li><a href="#about">About Us</a></li>
                             <li><a href="team.php">Team</a></li>
-                            <li><a href="mailto:partner@thegreenpowerapp.com">Partner</a></li>
+                            <li><a href="mailto:partner@thegreenpowerplatform.com">Partner</a></li>
                         </ul>
                     </div>
                 </div>
@@ -71,7 +71,7 @@
                     </div>
                     <div class="footer__columns__item__list">
                         <ul>
-                            <li><a href="mailto:list@thegreenpowerapp.com">Accept GPC at your business</a></li>
+                            <li><a href="mailto:list@thegreenpowerplatform.com">Accept GPC at your business</a></li>
                             <li><a href="#">Apply for a grant</a></li>
                             <li><a href="#">Build GPC community</a></li>
                         </ul>
@@ -95,7 +95,7 @@
                 </div>
             </div>
             <div class="footer__copyright">
-                <p>Copyright ©2021 Green Power Platform All Rights Reserved</p>
+                <p>Copyright ©2022 Green Power Platform All Rights Reserved</p>
             </div>
 
             <div class="footer__lang">

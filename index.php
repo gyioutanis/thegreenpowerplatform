@@ -47,8 +47,7 @@
     </section>
 
 
-
-    <section class="home-app-wrap-no-shadow"
+    <section class="home-app-wrap-no-shadow" id="about"
              style="background-image: url('assets/img/temp/star_background.jpg');padding-top: 40px;">
         <div class="home-app gen-width gen-rim white-font">
             <div class="home-app-inner home-press gen-width gen-rim">
@@ -78,13 +77,13 @@
                         </div>
                         <div class="home-press__item__text">
 
-                            <p>Communication</p>
-                            <h3 class="m_title m_title_ext text-custom latest_posts-title" itemprop="headline"><a
-                                        href="https://corre.energy/2022/08/02/corre-energy-playing-a-role-in-driving-irelands-economic-growth-newsweek/">Corre
-                                    Energy playing a role in driving Ireland’s economic growth – Newsweek</a></h3>
-
-                            <a href="https://corre.energy/2022/08/02/corre-energy-playing-a-role-in-driving-irelands-economic-growth-newsweek/">Read
-                                more</a>
+                            <p style="text-align: center;font-weight: bold;">Communication</p>
+                            <!--                            <h3 class="m_title m_title_ext text-custom latest_posts-title" itemprop="headline"><a-->
+                            <!--                                        href="https://corre.energy/2022/08/02/corre-energy-playing-a-role-in-driving-irelands-economic-growth-newsweek/">Corre-->
+                            <!--                                    Energy playing a role in driving Ireland’s economic growth – Newsweek</a></h3>-->
+                            <!---->
+                            <!--                            <a href="https://corre.energy/2022/08/02/corre-energy-playing-a-role-in-driving-irelands-economic-growth-newsweek/">Read-->
+                            <!--                                more</a>-->
 
                         </div>
                     </div>
@@ -96,15 +95,15 @@
                         </div>
                         <div class="home-press__item__text">
 
-                            <p>Energy</p>
-                            <h3 class="m_title m_title_ext text-custom latest_posts-title" itemprop="headline"><a
-                                        href="https://corre.energy/2022/06/06/corre-energy-announce-global-collaboration-agreement-to-work-together-on-long-duration-energy-storage-projects/">Corre
-                                    Energy announce ‘Global Collaboration Agreement’ to work together on Long Duration
-                                    Energy
-                                    Storage projects</a></h3>
-
-                            <a href="https://corre.energy/2022/06/06/corre-energy-announce-global-collaboration-agreement-to-work-together-on-long-duration-energy-storage-projects/">Read
-                                more</a>
+                            <p style="text-align: center;font-weight: bold;">Energy</p>
+                            <!--                            <h3 class="m_title m_title_ext text-custom latest_posts-title" itemprop="headline"><a-->
+                            <!--                                        href="https://corre.energy/2022/06/06/corre-energy-announce-global-collaboration-agreement-to-work-together-on-long-duration-energy-storage-projects/">Corre-->
+                            <!--                                    Energy announce ‘Global Collaboration Agreement’ to work together on Long Duration-->
+                            <!--                                    Energy-->
+                            <!--                                    Storage projects</a></h3>-->
+                            <!---->
+                            <!--                            <a href="https://corre.energy/2022/06/06/corre-energy-announce-global-collaboration-agreement-to-work-together-on-long-duration-energy-storage-projects/">Read-->
+                            <!--                                more</a>-->
                         </div>
                     </div>
 
@@ -116,12 +115,12 @@
                         </div>
                         <div class="home-press__item__text">
 
-                            <p>Commerce</p>
-                            <h3 class="m_title m_title_ext text-custom latest_posts-title" itemprop="headline"><a
-                                        href="https://corre.energy/2022/05/25/corre-energy-raises-e10-9-million-and-accelerates-growth-plans/">Corre
-                                    Energy raises €10.9 million and accelerates growth plans</a></h3>
-                            <a href="https://corre.energy/2022/05/25/corre-energy-raises-e10-9-million-and-accelerates-growth-plans/">Read
-                                more</a>
+                            <p style="text-align: center;font-weight: bold;">Commerce</p>
+                            <!--                            <h3 class="m_title m_title_ext text-custom latest_posts-title" itemprop="headline"><a-->
+                            <!--                                        href="https://corre.energy/2022/05/25/corre-energy-raises-e10-9-million-and-accelerates-growth-plans/">Corre-->
+                            <!--                                    Energy raises €10.9 million and accelerates growth plans</a></h3>-->
+                            <!--                            <a href="https://corre.energy/2022/05/25/corre-energy-raises-e10-9-million-and-accelerates-growth-plans/">Read-->
+                            <!--                                more</a>-->
                         </div>
                     </div>
 
@@ -144,7 +143,7 @@
                     <div class="home-benefits__blocks__item"
                          style="background-color: unset !important;padding-left: 0px;">
                         <div class="home-benefits__blocks__item__text">
-                            <h4 class="text-6xl capitalize">Introducing <span class="gen-font-gradient">$GPC?</span></h4>
+                            <h4 class="text-6xl capitalize">Introducing <span class="gen-font-gradient">$GPC</span></h4>
                             <p style="max-width: 700px;">Green Power Coin (GPC) is the adopted token of the Green Power
                                 Platform. GPC is needed to interact with the platform's useful features and
                                 functionalities such as NFT based green mining, staking and DAO voting. GPC monetizes
@@ -527,7 +526,7 @@
                     <div class="home-achievements__block__text">
                         <h3>Trade $GPC on Bittrex Global</h3>
                         <br>
-                        <a href="https://global.bittrex.com/Market/Index?MarketName=USDT-GPC"><img
+                        <a href="#"><img
                                     src="assets/img/img-buy-on-bittrex.svg" alt="Buy on Bittrex"></a>
                     </div>
                     <div class="home-achievements__block__video">
@@ -540,56 +539,41 @@
                     </div>
                 </div>
 
-                <div class="home-achievements__partners">
-                    <div class="home-achievements__partners__text">
-                        <h4 class="text-6xl capitalize">Partners</h4>
-                    </div>
+                <div class="home-achievements__title" style="z-index: 2;position: relative;padding-top: 60px">
+                    <h2 class="text-6xl capitalize">GPC <span class="gen-font-gradient">Partners</span>
+                    </h2>
+                </div>
+
+                <div class="home-achievements__partners" style="padding-top: 60px">
                     <div class="home-achievements__partners__logos">
+
                         <div class="home-achievements__partners__logos__item">
-                            <a href="https://www.apoelfc.com.cy/">
+                            <a href="https://thefutbolapp.com/">
                                 <div class="home-achievements__partners__logos__item__img">
-                                    <img src="assets/img/temp/APOEL_FC_logo.png" alt="">
+                                    <img src="assets/img/temp/tfa_logo.png" alt="">
                                 </div>
-                                <p>APOEL FC</p>
+                                <p>TFA - TheFutbolApp</p>
                             </a>
                         </div>
 
                         <div class="home-achievements__partners__logos__item">
-                            <a href="https://livingstonfc.co.uk/">
+                            <a href="https://corre.energy/">
                                 <div class="home-achievements__partners__logos__item__img">
-                                    <img src="assets/img/temp/logo-livingston-fc.png" alt="">
+                                    <img src="assets/img/temp/corre_energy_logo.png" alt="">
                                 </div>
-                                <p>Livingston FC</p>
+                                <p>CorreEnergy</p>
                             </a>
                         </div>
+
 
                         <div class="home-achievements__partners__logos__item">
-                            <a href="https://alexander.ac.cy/">
+                            <a href="https://www.farmerboys.com/">
                                 <div class="home-achievements__partners__logos__item__img">
-                                    <img src="assets/img/temp/logo-alexander-college.png" alt="">
+                                    <img src="assets/img/temp/logo-farmer-boys.png" alt="">
                                 </div>
-                                <p>Alexander College</p>
+                                <p>Farmer Boys</p>
                             </a>
                         </div>
-
-                        <!--
-                                                <div class="home-achievements__partners__logos__item">
-                                                    <a href="https://sportstechglobalconference.com/">
-                                                        <div class="home-achievements__partners__logos__item__img">
-                                                            <img src="assets/img/temp/logo-sportstechglobalconference.png" alt="">
-                                                        </div>
-                                                        <p>Sports Tech</p>
-                                                    </a>
-                                                </div>
-
-                                                <div class="home-achievements__partners__logos__item">
-                                                    <a href="https://www.farmerboys.com/">
-                                                        <div class="home-achievements__partners__logos__item__img">
-                                                            <img src="assets/img/temp/logo-farmer-boys.png" alt="">
-                                                        </div>
-                                                        <p>Farmer Boys</p>
-                                                    </a>
-                                                </div> -->
 
                         <div class="home-achievements__partners__logos__item">
                             <a href="http://tfaworldwide.org/">
@@ -606,9 +590,9 @@
     </section>
 
 
-    <section class="gen-color-block">
-        <?php include('template-parts/gen-twitter.php') ?>
-    </section>
+    <!--    <section class="gen-color-block">-->
+    <!--        --><?php //include('template-parts/gen-twitter.php') ?>
+    <!--    </section>-->
 </main>
 
 
