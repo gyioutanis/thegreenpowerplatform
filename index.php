@@ -5,7 +5,7 @@
     <section>
 
         <div style="width: 100%;height: 720px;overflow: hidden;position: relative;background-color: #000;">
-            <video style="min-width: 100%;min-height: 100%;position: absolute;top: 50%;left: 50%;transform: translateX(-50%) translateY(-50%);"
+            <video style="min-width: 100%;min-height: 100%;position: absolute;top: 25%;left: 50%;transform: translateX(-50%) translateY(-50%);"
                    autoplay muted loop id="myVideo">
                 <source src="assets/img/video.mp4" type="video/mp4">
                 Your browser does not support HTML5 video.
@@ -47,7 +47,7 @@
     </section>
 
 
-    <section class="home-app-wrap-no-shadow" id="about"
+    <section class="gen-color-block home-app-wrap-no-shadow" id="about"
              style="background-image: url('assets/img/temp/star_background.jpg');padding-top: 40px;">
         <div class="home-app gen-width gen-rim white-font">
             <div class="home-app-inner home-press gen-width gen-rim">
@@ -59,9 +59,7 @@
                         </div>
                     </div>
                     <div class="home-app__text">
-                        <p>What We Do</p><br>
-                        <p>Green Power Platform is built to accelerate the adoption of green renewable energy through
-                            with the combined power of web3. We're building the foundations for the decentralized future
+                        <p>We're building the foundations for the decentralized future
                             for local green community.</p>
                         <br>
                         <p>We are <span style="color: #FFB400;">empowering</span> decentralised community in 3 key ways
@@ -567,11 +565,11 @@
                         </div>
 
                         <div class="home-achievements__partners__logos__item">
-                            <a href="http://tfaworldwide.org/">
+                            <a href="https://pandasea.io/">
                                 <div class="home-achievements__partners__logos__item__img">
-                                    <img src="assets/img/temp/logo-tfa-worldwide.png" alt="">
+                                    <img src="assets/img/temp/pandasea_logo.png" alt="">
                                 </div>
-                                <p>TFA Worldwide</p>
+                                <p>PandaSea.io</p>
                             </a>
                         </div>
                     </div>
