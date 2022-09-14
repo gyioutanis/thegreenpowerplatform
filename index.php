@@ -123,7 +123,7 @@
                     <div class="home-benefits__img">
 
                         <iframe width="100%" height="100%"  style="padding: 50px;" src="https://www.youtube.com/embed/jznH9pahDMw"-->
-                            title="YouTube video player" frameborder="0"
+                            title="Power in Your Pocket" frameborder="0"
                             allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
                             allowfullscreen></iframe>
                     </div>
