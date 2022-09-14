@@ -59,8 +59,8 @@
                         </div>
                     </div>
                     <div class="home-app__text">
-                        <p>We're building the foundations for the decentralized future
-                            for local green community.</p>
+                        <p>Together with our partners we're building the foundations for the decentralized future for
+                            local green community.</p>
                         <br>
                         <p>We are <span style="color: #FFB400;">empowering</span> decentralised community in 3 key ways
                         </p>
