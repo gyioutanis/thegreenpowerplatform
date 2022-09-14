@@ -97,8 +97,8 @@
 
                 <div class="header__menu">
                     <div class="header__menu__btn">
-                        <a href="https://tfamoments.com"><img src="assets/img/img-gpc.svg"
-                                                                    alt="NFT Marketplace"></a>
+                        <a href="/mine"><img src="assets/img/img-gpc.svg"
+                                                                    alt="Mine GPC"></a>
                     </div>
                 </div>
 

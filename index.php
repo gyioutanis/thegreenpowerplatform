@@ -5,7 +5,7 @@
     <section>
 
         <div style="width: 100%;height: 720px;overflow: hidden;position: relative;background-color: #000;">
-            <video style="min-width: 100%;min-height: 100%;position: absolute;top: 25%;left: 50%;transform: translateX(-50%) translateY(-50%);"
+            <video style="min-width: 100%;min-height: 100%;position: absolute;top: 30%;left: 50%;transform: translateX(-50%) translateY(-50%);"
                    autoplay muted loop id="myVideo">
                 <source src="assets/img/video.mp4" type="video/mp4">
                 Your browser does not support HTML5 video.
@@ -30,9 +30,9 @@
 
 
                             <div style="margin-top: 30px;display: inline-block;margin-bottom: 30px;z-index: 1;">
-                                <a href="https://tfamoments.com/"><img src="assets/img/img-gpc.svg"
+                                <a href="/mine"><img src="assets/img/img-gpc.svg"
                                                                        style="width: 300px;"
-                                                                       alt="NFT Marketplace"></a>
+                                                                       alt="Mine GPC"></a>
                             </div>
 
 
@@ -140,12 +140,12 @@
 
                             <div style="margin-top: 30px;display: inline-block;margin-right:40px;">
                                 <a href="#"><img
-                                            src="assets/img/img-buy-on-quickswap.svg"
-                                            alt="Buy on QuickSwap"></a>
+                                            src="assets/img/img-buy-on-pancakeswap.svg"
+                                            alt="Buy on PancakeSwap"></a>
                             </div>
                             <div style="margin-top: 30px;display: inline-block;margin-right:40px;">
                                 <a href="#"><img
-                                            src="assets/img/img-buy-on-bittrex.svg" alt="Buy on Bittrex"></a>
+                                            src="assets/img/img-buy-on-binance.svg" alt="Buy on Binance"></a>
                             </div>
                         </div>
                     </div>
@@ -490,43 +490,43 @@
     <section class="gen-color-block">
         <section class="home-achievements gen-width gen-rim white-font">
             <div class="home-achievements-inner">
-                <div class="home-achievements__title">
-                    <h2 class="text-6xl capitalize">GPC Token<br><span class="gen-font-gradient">Achievements</span>
-                    </h2>
-                    <p>GPC (GreenPowerCoin) is a digital asset on the Stellar blockchain.</p>
-                </div>
+<!--                <div class="home-achievements__title">-->
+<!--                    <h2 class="text-6xl capitalize">GPC Token<br><span class="gen-font-gradient">Achievements</span>-->
+<!--                    </h2>-->
+<!--                    <p>GPC (GreenPowerCoin) is a digital asset on the Stellar blockchain.</p>-->
+<!--                </div>-->
 
-                <div class="home-achievements__list">
-                    <div class="home-achievements__list__item">
-                        <h3><span class="gen-font-gradient">167,000+</span></h3>
-                        <p>GPC Holders</p>
-                    </div>
-                    <div class="home-achievements__list__item">
-                        <h3><span class="gen-font-gradient">1,300,000+</span></h3>
-                        <p>GPC Transactions</p>
-                    </div>
-                    <div class="home-achievements__list__item">
-                        <h3><span class="gen-font-gradient">400+</span></h3>
-                        <p>Businesses accepting GPC </p>
-                    </div>
-                </div>
+<!--                <div class="home-achievements__list">-->
+<!--                    <div class="home-achievements__list__item">-->
+<!--                        <h3><span class="gen-font-gradient">167,000+</span></h3>-->
+<!--                        <p>GPC Holders</p>-->
+<!--                    </div>-->
+<!--                    <div class="home-achievements__list__item">-->
+<!--                        <h3><span class="gen-font-gradient">1,300,000+</span></h3>-->
+<!--                        <p>GPC Transactions</p>-->
+<!--                    </div>-->
+<!--                    <div class="home-achievements__list__item">-->
+<!--                        <h3><span class="gen-font-gradient">400+</span></h3>-->
+<!--                        <p>Businesses accepting GPC </p>-->
+<!--                    </div>-->
+<!--                </div>-->
 
-                <div class="home-achievements__block">
-                    <div class="home-achievements__block__text">
-                        <h3>Trade $GPC on Bittrex Global</h3>
-                        <br>
-                        <a href="#"><img
-                                    src="assets/img/img-buy-on-bittrex.svg" alt="Buy on Bittrex"></a>
-                    </div>
-                    <div class="home-achievements__block__video">
-                        <div class="home-achievements__block__video-inner">
-                            <iframe width="560" height="315" src="https://www.youtube.com/embed/lbW5SGZaQ4s"
-                                    title="YouTube video player" frameborder="0"
-                                    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-                                    allowfullscreen></iframe>
-                        </div>
-                    </div>
-                </div>
+<!--                <div class="home-achievements__block">-->
+<!--                    <div class="home-achievements__block__text">-->
+<!--                        <h3>Trade $GPC on Bittrex Global</h3>-->
+<!--                        <br>-->
+<!--                        <a href="#"><img-->
+<!--                                    src="assets/img/img-buy-on-bittrex.svg" alt="Buy on Bittrex"></a>-->
+<!--                    </div>-->
+<!--                    <div class="home-achievements__block__video">-->
+<!--                        <div class="home-achievements__block__video-inner">-->
+<!--                            <iframe width="560" height="315" src="https://www.youtube.com/embed/lbW5SGZaQ4s"-->
+<!--                                    title="YouTube video player" frameborder="0"-->
+<!--                                    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"-->
+<!--                                    allowfullscreen></iframe>-->
+<!--                        </div>-->
+<!--                    </div>-->
+<!--                </div>-->
 
                 <div class="home-achievements__title" style="z-index: 2;position: relative;padding-top: 60px">
                     <h2 class="text-6xl capitalize">GPP <span class="gen-font-gradient">Partners</span>
