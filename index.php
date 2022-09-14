@@ -208,13 +208,13 @@
                     <!--                    <div class="home-app__title__img">-->
                     <!--                        <img src="assets/img/logo-tfa.png" alt="">-->
                     <!--                    </div>-->
-                    <h2 class="text-6xl capitalize">The Green Power<span class="gen-font-gradient">App</span></h2>
+                    <h2 class="text-6xl capitalize">The Green Power <span class="gen-font-gradient">App</span></h2>
                 </div>
 
                 <div class="home-app__text">
-                    <p>The Green Power App (GPA) Web3 community social network enables community interaction with green
-                        renewable stored energy via NFTs. It also serves as a decentralized loacl social network and
-                        commerce system. Play to earn games are included within the app.</p>
+                    <p>The Green Power App (GPA) enables each local community to have their own social network and
+                        commerce system. A digital asset wallet is automatically enable easy onboarding of people new to
+                        Web3. Play to earn games and NFT green mining are also included within the app.</p>
                 </div>
 
                 <div class="home-app__icons">
@@ -258,16 +258,19 @@
 
                         <ul class="col-md-12 de_nav">
 
-                            <li class="tab-gra">GPA wallet and pay system
+                            <li class="active tab-gra">GPA wallet and pay system
                             </li>
                             <li class="tab-gra">GPP pay to earn games
                             </li>
                             <li class="tab-gra">GPP DAO capabilities
                             </li>
+                            <li class="tab-gra">NFT based ownership and mining
+                            </li>
+
                         </ul>
                         <div class="de_tab_content" style="background-size: cover;">
 
-                            <div class="tab-2" style="background-size: cover;">
+                            <div class="tab-1" style="background-size: cover;">
                                 <div class="md:flex md:items-start md:-mx-4">
                                 <span class="inline-block p-2 text-blue-500 bg-blue-100 rounded-xl md:mx-4 dark:text-white dark:bg-blue-500">
                                    <svg xmlns="http://www.w3.org/2000/svg" class="w-6 h-6" fill="none"
@@ -297,7 +300,7 @@
                                 </div>
                             </div>
 
-                            <div class="tab-3" style="background-size: cover;">
+                            <div class="tab-2" style="background-size: cover;">
                                 <div class="md:flex md:items-start md:-mx-4">
                             <span class="inline-block p-2 text-blue-500 bg-blue-100 rounded-xl md:mx-4 dark:text-white dark:bg-blue-500">
                                 <svg xmlns="http://www.w3.org/2000/svg" class="w-6 h-6" fill="none" viewBox="0 0 24 24"
@@ -344,7 +347,7 @@
                                 </div>
                             </div>
 
-                            <div class="tab-4" style="background-size: cover;">
+                            <div class="tab-3" style="background-size: cover;">
                                 <div class="md:flex md:items-start md:-mx-4">
                             <span class="inline-block p-2 text-blue-500 bg-blue-100 rounded-xl md:mx-4 dark:text-white dark:bg-blue-500">
                                 <svg xmlns="http://www.w3.org/2000/svg" class="w-6 h-6" fill="none" viewBox="0 0 24 24"
@@ -368,6 +371,35 @@
                                             participation on larger platform decisions will be available also.
                                             Participation in the DAO is proportional to the amount of GPC that is staked
                                             or held in wallet.
+                                        </p>
+                                    </div>
+                                </div>
+                            </div>
+
+                            <div class="tab-4" style="background-size: cover;">
+                                <div class="md:flex md:items-start md:-mx-4">
+                            <span class="inline-block p-2 text-blue-500 bg-blue-100 rounded-xl md:mx-4 dark:text-white dark:bg-blue-500">
+                                <svg xmlns="http://www.w3.org/2000/svg" class="w-6 h-6" fill="none" viewBox="0 0 24 24"
+                                     stroke="currentColor">
+                                    <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
+                                          d="M17.657 18.657A8 8 0 016.343 7.343S7 9 9 10c0-2 .5-5 2.986-7C14 5 16.09 5.777 17.656 7.343A7.975 7.975 0 0120 13a7.975 7.975 0 01-2.343 5.657z"/>
+                                    <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
+                                          d="M9.879 16.121A3 3 0 1012.015 11L11 14H9c0 .768.293 1.536.879 2.121z"/>
+                                </svg>
+                            </span>
+
+                                    <div class="mt-4 md:mx-4 md:mt-0">
+                                        <h1 class="text-2xl font-semibold text-gray-700 capitalize dark:text-white">NFT
+                                            based ownership and mining</h1>
+
+                                        <p class="mt-3 text-gray-500 dark:text-gray-300">
+                                            GPP has its own multi-chain NFT capability for minting NFTs that represent
+                                            ownership in green renewable storage infrastructure as well as a method to
+                                            use NFTs for a process we invented with our partners called green mining.
+                                            Instead of using actual computers that burn dirty energy and output blocks,
+                                            our green miners use NFTs to create green renewable energy and receive
+                                            rewards for doing so as green energy is output from real world projects to
+                                            the grid as determined by our Oracles.
                                         </p>
                                     </div>
                                 </div>
