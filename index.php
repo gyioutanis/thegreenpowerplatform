@@ -4,7 +4,7 @@
 <main class="home">
     <section>
 
-        <div style="width: 100%;height: 720px;overflow: hidden;position: relative;background-color: #000;">
+        <div style="width: 100%;height: auto;overflow: hidden;position: relative;background-color: #000;">
             <video style="min-width: 100%;min-height: 100%;position: absolute;top: 30%;left: 50%;transform: translateX(-50%) translateY(-50%);"
                    autoplay muted loop id="myVideo">
                 <source src="assets/img/video.mp4" type="video/mp4">
