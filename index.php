@@ -592,7 +592,7 @@
                                 <div class="home-achievements__partners__logos__item__img">
                                     <img src="assets/img/temp/pandasea_logo.png" alt="">
                                 </div>
-                                <p>PandaSea.io</p>
+                                <p>PandaSea</p>
                             </a>
                         </div>
                     </div>
