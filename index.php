@@ -24,15 +24,15 @@
                                         class="gen-font-gradient">green</span>
                                 <span class="gen-font-gradient">economy</span></h2>
 
-                            <p style="margin-bottom:10px;max-width:700px;">The Green Power Platform is a multi-chain
-                                Web3 platform with apps and services built to power next generation digital interaction
-                                between communities and transformational green energy projects.</p>
+                            <p style="margin-bottom:10px;max-width:700px;">GPP is a multi-chain Web3 platform with apps
+                                and services built to power digital interaction between communities and green energy
+                                infrastructure.</p>
 
 
                             <div style="margin-top: 30px;display: inline-block;margin-bottom: 30px;z-index: 1;">
                                 <a href="/mine"><img src="assets/img/img-gpc.svg"
-                                                                       style="width: 300px;"
-                                                                       alt="Mine GPC"></a>
+                                                     style="width: 300px;"
+                                                     alt="Mine GPC"></a>
                             </div>
 
 
@@ -134,9 +134,10 @@
                         <div class="home-benefits__blocks__item__text">
                             <h4 class="text-6xl capitalize">Introducing <span class="gen-font-gradient">$GPC</span></h4>
                             <p style="max-width: 700px;">Green Power Coin (GPC) is the adopted token of the Green Power
-                                Platform. GPC is needed to interact with the platform's useful features and
-                                functionalities such as NFT based green mining, staking and DAO voting. GPC monetizes
-                                the potential of the green economy in a digital asset.</p>
+                                Platform ecosystem. GPC is needed to access features and functionalities such as NFT
+                                based green mining, staking and DAO voting. GPC monetizes the potential of the green
+                                economy in a digital asset.</p>
+
 
                             <div style="margin-top: 30px;display: inline-block;margin-right:40px;">
                                 <a href="#"><img
@@ -490,43 +491,43 @@
     <section class="gen-color-block">
         <section class="home-achievements gen-width gen-rim white-font">
             <div class="home-achievements-inner">
-<!--                <div class="home-achievements__title">-->
-<!--                    <h2 class="text-6xl capitalize">GPC Token<br><span class="gen-font-gradient">Achievements</span>-->
-<!--                    </h2>-->
-<!--                    <p>GPC (GreenPowerCoin) is a digital asset on the Stellar blockchain.</p>-->
-<!--                </div>-->
+                <!--                <div class="home-achievements__title">-->
+                <!--                    <h2 class="text-6xl capitalize">GPC Token<br><span class="gen-font-gradient">Achievements</span>-->
+                <!--                    </h2>-->
+                <!--                    <p>GPC (GreenPowerCoin) is a digital asset on the Stellar blockchain.</p>-->
+                <!--                </div>-->
 
-<!--                <div class="home-achievements__list">-->
-<!--                    <div class="home-achievements__list__item">-->
-<!--                        <h3><span class="gen-font-gradient">167,000+</span></h3>-->
-<!--                        <p>GPC Holders</p>-->
-<!--                    </div>-->
-<!--                    <div class="home-achievements__list__item">-->
-<!--                        <h3><span class="gen-font-gradient">1,300,000+</span></h3>-->
-<!--                        <p>GPC Transactions</p>-->
-<!--                    </div>-->
-<!--                    <div class="home-achievements__list__item">-->
-<!--                        <h3><span class="gen-font-gradient">400+</span></h3>-->
-<!--                        <p>Businesses accepting GPC </p>-->
-<!--                    </div>-->
-<!--                </div>-->
+                <!--                <div class="home-achievements__list">-->
+                <!--                    <div class="home-achievements__list__item">-->
+                <!--                        <h3><span class="gen-font-gradient">167,000+</span></h3>-->
+                <!--                        <p>GPC Holders</p>-->
+                <!--                    </div>-->
+                <!--                    <div class="home-achievements__list__item">-->
+                <!--                        <h3><span class="gen-font-gradient">1,300,000+</span></h3>-->
+                <!--                        <p>GPC Transactions</p>-->
+                <!--                    </div>-->
+                <!--                    <div class="home-achievements__list__item">-->
+                <!--                        <h3><span class="gen-font-gradient">400+</span></h3>-->
+                <!--                        <p>Businesses accepting GPC </p>-->
+                <!--                    </div>-->
+                <!--                </div>-->
 
-<!--                <div class="home-achievements__block">-->
-<!--                    <div class="home-achievements__block__text">-->
-<!--                        <h3>Trade $GPC on Bittrex Global</h3>-->
-<!--                        <br>-->
-<!--                        <a href="#"><img-->
-<!--                                    src="assets/img/img-buy-on-bittrex.svg" alt="Buy on Bittrex"></a>-->
-<!--                    </div>-->
-<!--                    <div class="home-achievements__block__video">-->
-<!--                        <div class="home-achievements__block__video-inner">-->
-<!--                            <iframe width="560" height="315" src="https://www.youtube.com/embed/lbW5SGZaQ4s"-->
-<!--                                    title="YouTube video player" frameborder="0"-->
-<!--                                    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"-->
-<!--                                    allowfullscreen></iframe>-->
-<!--                        </div>-->
-<!--                    </div>-->
-<!--                </div>-->
+                <!--                <div class="home-achievements__block">-->
+                <!--                    <div class="home-achievements__block__text">-->
+                <!--                        <h3>Trade $GPC on Bittrex Global</h3>-->
+                <!--                        <br>-->
+                <!--                        <a href="#"><img-->
+                <!--                                    src="assets/img/img-buy-on-bittrex.svg" alt="Buy on Bittrex"></a>-->
+                <!--                    </div>-->
+                <!--                    <div class="home-achievements__block__video">-->
+                <!--                        <div class="home-achievements__block__video-inner">-->
+                <!--                            <iframe width="560" height="315" src="https://www.youtube.com/embed/lbW5SGZaQ4s"-->
+                <!--                                    title="YouTube video player" frameborder="0"-->
+                <!--                                    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"-->
+                <!--                                    allowfullscreen></iframe>-->
+                <!--                        </div>-->
+                <!--                    </div>-->
+                <!--                </div>-->
 
                 <div class="home-achievements__title" style="z-index: 2;position: relative;padding-top: 60px">
                     <h2 class="text-6xl capitalize">GPP <span class="gen-font-gradient">Partners</span>
