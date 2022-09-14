@@ -10,7 +10,7 @@
         <section class="gen-social">
             <div class="gen-social__item">
                 <a href="#"><img src="assets/img/icon-linkedin--white.svg"
-                                                                            alt=""></a>
+                                 alt=""></a>
             </div>
             <div class="gen-social__item">
                 <a href="#"><img
@@ -19,15 +19,15 @@
             <div class="gen-social__item">
                 <a href="#"><img src="assets/img/icon-telegram--white.svg" alt=""></a>
             </div>
-<!--            <div class="gen-social__item">-->
-<!--                <a href="https://twitter.com/TheFutbolCoin"><img src="assets/img/icon-twitter--white.svg" alt=""></a>-->
-<!--            </div>-->
+            <!--            <div class="gen-social__item">-->
+            <!--                <a href="https://twitter.com/TheFutbolCoin"><img src="assets/img/icon-twitter--white.svg" alt=""></a>-->
+            <!--            </div>-->
             <div class="gen-social__item">
                 <a href="#"><img src="assets/img/icon-facebook--white.svg" alt=""></a>
             </div>
             <div class="gen-social__item">
                 <a href="#"><img src="assets/img/icon-instagram--white.svg"
-                                                                    alt=""></a>
+                                 alt=""></a>
             </div>
         </section>
     </section>
@@ -40,7 +40,7 @@
             <div class="footer__logo">
                 <a href="#top">
                     <img src="assets/img/logo-tfa.png" alt="logo: GPC" width="33">
-                    <p>Green Power Platform</p>
+                    <p>Green Power Coin</p>
 
 
                     <div class="footer__columns__item__list">
@@ -95,7 +95,7 @@
                 </div>
             </div>
             <div class="footer__copyright">
-                <p>Copyright ©2022 Green Power Platform All Rights Reserved</p>
+                <p>Copyright ©2022 Green Power Coin All Rights Reserved</p>
             </div>
 
             <div class="footer__lang">

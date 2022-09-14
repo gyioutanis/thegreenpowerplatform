@@ -4,7 +4,7 @@
     <meta charset="UTF-8"/>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="author" content="pavlovec.net">
-    <title>Green Power Platform</title>
+    <title>Green Power Coin</title>
 
     <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
     <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
@@ -44,41 +44,41 @@
 
     <?php $file = 'assets/js/header-scripts.js'; ?>
     <script src="<?= $file ?>?v=<?= filectime($file) ?>"></script>
- <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css" />
-<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap" />
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/tw-elements/dist/css/index.min.css" />
-<style type="text/css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css" />
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap" />
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/tw-elements/dist/css/index.min.css" />
+    <style type="text/css">
 
-</style>
-<script src="https://cdn.tailwindcss.com"></script>
-<script>
-  tailwind.config = {
-    theme: {
-      extend: {
-        fontFamily: {
-          sans: ['Inter', 'sans-serif'],
-        },
-      }
-    }
-  }
-  .tfa_tab .tfa_nav {
-      overflow: hidden;
-      padding-left: 0;
-      margin: 0;
-      padding: 0;
-      font-weight: bold;
-}
-.tfa_tab .tfa_nav li {
-  float: left;
-  list-style: none;
-  background: #EEE;
-  margin-right: 10px;
-  border-radius: 5px;
-  -moz-border-radius: 5px;
-  -webkit-border-radius: 5px;
-}
-</script>
-<script src="https://cdn.jsdelivr.net/npm/tw-elements/dist/js/index.min.js"></script>
+    </style>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <script>
+        tailwind.config = {
+            theme: {
+                extend: {
+                    fontFamily: {
+                        sans: ['Inter', 'sans-serif'],
+                    },
+                }
+            }
+        }
+            .tfa_tab .tfa_nav {
+            overflow: hidden;
+            padding-left: 0;
+            margin: 0;
+            padding: 0;
+            font-weight: bold;
+        }
+        .tfa_tab .tfa_nav li {
+            float: left;
+            list-style: none;
+            background: #EEE;
+            margin-right: 10px;
+            border-radius: 5px;
+            -moz-border-radius: 5px;
+            -webkit-border-radius: 5px;
+        }
+    </script>
+    <script src="https://cdn.jsdelivr.net/npm/tw-elements/dist/js/index.min.js"></script>
 
 </head>
 
@@ -91,14 +91,14 @@
                 <div class="header__logo">
                     <a href="#top">
                         <img src="assets/img/logo-tfa.png" alt="logo: GPC" width="53">
-                        <p>Green Power Platform</p>
+                        <p>Green Power Coin</p>
                     </a>
                 </div>
 
                 <div class="header__menu">
                     <div class="header__menu__btn">
                         <a href="https://thegreenpowerplatform.com/mine/"><img src="assets/img/img-gpc.svg"
-                                                                    alt="Mine GPC"></a>
+                                                                               alt="Mine GPC"></a>
                     </div>
                 </div>
 
