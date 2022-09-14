@@ -20,14 +20,13 @@
                             <!--                        <br>-->
                             <br>
                             <!--                        <h1>TFA Platform</h1>-->
-                            <h2 style="margin-bottom:10px;" class="text-6xl capitalize">Putting <span
-                                        class="gen-font-gradient">POWER</span><br>in your
-                                <span class="gen-font-gradient">POCKET</span></h2>
+                            <h2 style="margin-bottom:10px;" class="text-6xl capitalize">Powering the <span
+                                        class="gen-font-gradient">green</span>
+                                <span class="gen-font-gradient">economy</span></h2>
 
-                            <p style="margin-bottom:10px;max-width:700px;">Green Power Coin (GPC) is the adopted token of the Green Power
-                                Platform ecosystem. GPC is needed to access features and functionalities such as NFT
-                                based green mining, staking and DAO voting. GPC monetizes the potential of the green
-                                economy in a digital asset.</p>
+                            <p style="margin-bottom:10px;max-width:700px;">GPP is a multi-chain Web3 platform with apps
+                                and services built to power digital interaction between communities and green energy
+                                infrastructure.</p>
 
 
                             <div style="margin-top: 30px;display: inline-block;margin-bottom: 30px;z-index: 1;">

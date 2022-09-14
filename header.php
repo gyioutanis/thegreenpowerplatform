@@ -97,7 +97,7 @@
 
                 <div class="header__menu">
                     <div class="header__menu__btn">
-                        <a href="/mine"><img src="assets/img/img-gpc.svg"
+                        <a href="https://thegreenpowerplatform.com/mine/"><img src="assets/img/img-gpc.svg"
                                                                     alt="Mine GPC"></a>
                     </div>
                 </div>
