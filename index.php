@@ -76,10 +76,7 @@
                         </div>
                         <div class="home-press__item__text">
 
-                            <p style="text-align: center;font-weight: bold;">Communication</p>
-                            <p style="text-align: center;">
-                                <a href="#" style="font-size: 14px;text-align: center;">Via the GreenPowerApp</a>
-                            </p>
+                            <p style="font-size: 25px;text-align: center;font-weight: bold;">Communication</p>
                         </div>
                     </div>
 
@@ -90,10 +87,7 @@
                         </div>
                         <div class="home-press__item__text">
 
-                            <p style="text-align: center;font-weight: bold;">Energy</p>
-                            <p style="text-align: center;">
-                                <a href="#" style="font-size: 14px;text-align: center;">Via the GreenPowerApp</a>
-                            </p>
+                            <p style="font-size: 25px;text-align: center;font-weight: bold;">Energy</p>
                         </div>
                     </div>
 
@@ -105,11 +99,7 @@
                         </div>
                         <div class="home-press__item__text">
 
-                            <p style="text-align: center;font-weight: bold;">Commerce</p>
-                            <p style="text-align: center;">
-                                <a href="#" style="font-size: 14px;text-align: center;">Via the GreenPowerApp</a>
-                            </p>
-
+                            <p style="font-size: 25px;text-align: center;font-weight: bold;">Commerce</p>
                         </div>
                     </div>
 
