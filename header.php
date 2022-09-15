@@ -15,7 +15,6 @@
     <meta name="theme-color" content="#ffffff">
 
 
-
     <?php $file = 'assets/css/dist/tailwind.css'; ?>
     <link rel="stylesheet" href="<?= $file ?>?v=<?= filectime($file) ?>">
 
@@ -44,9 +43,9 @@
 
     <?php $file = 'assets/js/header-scripts.js'; ?>
     <script src="<?= $file ?>?v=<?= filectime($file) ?>"></script>
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css" />
-    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap" />
-    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/tw-elements/dist/css/index.min.css" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css"/>
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/tw-elements/dist/css/index.min.css"/>
     <style type="text/css">
 
     </style>
@@ -61,21 +60,42 @@
                 }
             }
         }
-            .tfa_tab .tfa_nav {
+            .tfa_tab.tfa_nav
+        {
             overflow: hidden;
-            padding-left: 0;
+            padding - left
+        :
+            0;
             margin: 0;
             padding: 0;
-            font-weight: bold;
+            font - weight
+        :
+            bold;
         }
-        .tfa_tab .tfa_nav li {
+        .tfa_tab.tfa_nav
+        li
+        {
             float: left;
-            list-style: none;
+            list - style
+        :
+            none;
             background: #EEE;
-            margin-right: 10px;
-            border-radius: 5px;
-            -moz-border-radius: 5px;
-            -webkit-border-radius: 5px;
+            margin - right
+        :
+            10
+            px;
+            border - radius
+        :
+            5
+            px;
+            -moz - border - radius
+        :
+            5
+            px;
+            -webkit - border - radius
+        :
+            5
+            px;
         }
     </script>
     <script src="https://cdn.jsdelivr.net/npm/tw-elements/dist/js/index.min.js"></script>
@@ -83,32 +103,5 @@
 </head>
 
 
-<body class="body">
-<div class="body-inner" id="top">
-    <section class="header-wrap">
-        <header class="header">
-            <div class="header-inner">
-                <div class="header__logo">
-                    <a href="#top">
-                        <img src="assets/img/logo-tfa.png" alt="logo: GPC" width="53">
-                        <p>Green Power Coin</p>
-                    </a>
-                </div>
-
-                <div class="header__menu">
-                    <div class="header__menu__btn">
-                        <a href="https://thegreenpowerplatform.com/mine/"><img src="assets/img/img-gpc.svg"
-                                                                               alt="Mine GPC"></a>
-                    </div>
-                </div>
-
-                <div class="header__burger">
-                    <div class="header__burger-inner">
-                        <span></span>
-                        <span></span>
-                        <span></span>
-                    </div>
-                </div>
-            </div>
-        </header>
-    </section>
+<body class="body" style="background-image: url('assets/img/temp/star_background.jpg');">
+<div class="body-inner" id="top" style="align-items:center;justify-content: center;">
