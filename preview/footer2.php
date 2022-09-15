@@ -42,7 +42,7 @@
 
                          <div class="footer__columns__item__list">
                             <ul>
-                                <li><a href="mailto:community@thefutbolapp.com">community@thefutbolapp.com</a></li>
+                                <li><a href="mailto:community@greenpowercoin.io">community@greenpowercoin.io</a></li>
                             </ul>
                         </div>
 
@@ -55,9 +55,9 @@
                         </div>
                         <div class="footer__columns__item__list">
                             <ul>
-                                <li><a href="https://thefutbolcoin.com/#about">About Us</a></li>
+                                <li><a href="#about">About Us</a></li>
                                 <li><a href="team.php">Team</a></li>
-                                <li><a href="mailto:partner@thefutbolapp.com">Partner</a></li>
+                                <li><a href="mailto:partner@greenpowercoin.io">Partner</a></li>
                             </ul>
                         </div>
                     </div>

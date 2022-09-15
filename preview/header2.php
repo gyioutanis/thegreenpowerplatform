@@ -61,29 +61,29 @@
             <header class="header">
                 <div class="header-inner">
                     <div class="header__logo">
-                        <a href="https://thefutbolcoin.com">
+                        <a href="#top">
                             <img src="assets/img/logo-tfa.png" alt="logo: GPC" width="53">
                             <p>Green Power Platform</p>
                         </a>
                     </div>
 
-                    <div class="header__menu">
-                        <ul>
-                            <li><a href="#about">About</a></li>
-                            <li><a href="#contact">Contact us</a></li>
-                        </ul>
-                        <div class="header__menu__btn">
-                            <a href="https://global.bittrex.com/Market/Index?MarketName=USDT-GPC"><img src="assets/img/img-buy-on-bittrex.svg" alt="Buy on Bittrex"></a>
-                        </div>
-                    </div>
-
-                    <div class="header__burger">
-                        <div class="header__burger-inner">
-                            <span></span>
-                            <span></span>
-                            <span></span>
-                        </div>
-                    </div>
+<!--                    <div class="header__menu">-->
+<!--                        <ul>-->
+<!--                            <li><a href="#about">About</a></li>-->
+<!--                            <li><a href="#contact">Contact us</a></li>-->
+<!--                        </ul>-->
+<!--                        <div class="header__menu__btn">-->
+<!--                            <a href="https://global.bittrex.com/Market/Index?MarketName=USDT-GPC"><img src="assets/img/img-buy-on-bittrex.svg" alt="Buy on Bittrex"></a>-->
+<!--                        </div>-->
+<!--                    </div>-->
+<!---->
+<!--                    <div class="header__burger">-->
+<!--                        <div class="header__burger-inner">-->
+<!--                            <span></span>-->
+<!--                            <span></span>-->
+<!--                            <span></span>-->
+<!--                        </div>-->
+<!--                    </div>-->
                 </div>
             </header>
         </section>
