@@ -19,7 +19,6 @@
                                         class="gen-font-gradient">POWER</span><br>in your
                                 <span class="gen-font-gradient">POCKET</span></h2>
                             <img src="assets/img/temp/home-benefits.png" alt="" style="display: inline-block;width: 300px;opacity: 1;">
-                            <p>Coming soon...</p>
 
                         </div>
 
