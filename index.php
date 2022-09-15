@@ -17,7 +17,6 @@
                             <h2 style="padding-bottom: 0px;" class="text-6xl capitalize">Powering The <br>
                                 <span class="gen-font-gradient">Green Economy</span></h2>
                             <img src="assets/img/temp/home-benefits.png" alt="" style="display: inline-block;width: 300px;opacity: 1;">
-                            <p>Coming soon...</p>
 
                         </div>
 
